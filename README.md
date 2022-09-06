@@ -9,7 +9,10 @@
 3. Olan Cruz Raul
 4. Jiménez Rosas Donovan
 5. Besne Cabrera Alberto
-6. Suchil Tiburcio Israel
+6. Tiburcio Suchil Israel
 
 > Introducción 
->> Proposito   Ayudar a estudiantes de todo tipo con una herramienta digitalizada donde podran organizar su información y deberes, ademas los ayudar a estudiar sirviendoce de un metdódo de estudio probado con resultados eficientes 
+>> Proposito  
+>> Ayudar a estudiantes de todo tipo con una herramienta digitalizada donde podran organizar su información y deberes, ademas los ayudar a estudiar sirviendose de un método de estudio conocído como *flash cards*. 
+
+d 
